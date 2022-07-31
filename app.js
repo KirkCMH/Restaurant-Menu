@@ -4,7 +4,7 @@ const port = 3000
 
 // require express-handlebars here
 const exphbs = require('express-handlebars')
-const { Script } = require('vm')
+
 // read JSON file
 const restaurants = require('./restaurant.json')
 
